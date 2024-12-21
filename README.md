@@ -33,3 +33,5 @@ GRAPHQL/
 ├── index.html
 ├── index.js
 └── README.md
+## Demo
+[Capture vidéo du 21-12-2024 13:47:07.webm](https://github.com/user-attachments/assets/99bd98fd-a14c-4100-acbb-5742bbef0b18)
